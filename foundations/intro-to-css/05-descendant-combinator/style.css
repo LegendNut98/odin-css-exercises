@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+div .text {
+    background-color:yellow;
+    color:#fc1919;
+    font-size:20px;
+    text-align:center;
+}
